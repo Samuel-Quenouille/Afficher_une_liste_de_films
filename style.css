@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+h1 {
+    color:darkblue
+}
+
+.search input {
+    width: 900px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.btn {
+    color: darkblue;
+    margin-top: 30px;
+}
+
+.films-container {
+    margin-top: 50px;
+}
